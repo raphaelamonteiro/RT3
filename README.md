@@ -1,4 +1,4 @@
-# 3° Exercício de Fixação (Classes e Objetos) - TypeScript
+# 3° Exercício de Fixação (Módulos) - TypeScript
 ## Disciplina: Programação Orientada á Objetos
 III SEMESTRE - Análise e Desenvolvimento de Sistemas
 
