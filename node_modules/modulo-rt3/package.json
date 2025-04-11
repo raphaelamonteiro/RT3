@@ -1,0 +1,12 @@
+{
+  "name": "modulo-rt3",
+  "version": "1.0.0",
+  "description": "Operações matemáticas básicas",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Raphaela Monteiro",
+  "license": "ISC"
+}
